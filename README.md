@@ -9,19 +9,19 @@ My recent work has expanded toward research software development through the cre
 
 ## Research Interests
 
-- 🧪 **Green Analytical Chemistry**
+- **Green Analytical Chemistry**
   - Environmentally responsible analytical methodologies and sustainability-oriented analytical systems
 
-- 🌿 **Sustainable Sample Preparation**
+- **Sustainable Sample Preparation**
   - Design and development of sustainable extraction materials and sample preparation platforms, including liquid- and solid-phase systems for analytical applications
 
-- 💻 **Scientific Software & Digital Sustainability Assessment**
+- **Scientific Software & Digital Sustainability Assessment**
   - Research software, sustainability assessment, digital decision-support systems, and computational tools for analytical chemistry
 
-- 📊 **Analytical Method Development**
+- **Analytical Method Development**
   - Electrochemical sensing, spectroscopy, chromatography, and quantitative analytical methodologies
 ---
-## 🌱 Featured Scientific Software
+## Featured Scientific Software
 ### GreenExPhase
 *A digital scientific platform for holistic sustainability assessment, comparison, and decision support in extraction phase development.*
 GreenExPhase was developed to address the growing need for standardized, transparent, and reproducible sustainability assessment in extraction science. The platform enables researchers to evaluate extraction phases using structured sustainability criteria and evidence-based decision-support methodologies, facilitating more informed method development and comparison while promoting sustainable analytical chemistry.
@@ -58,10 +58,10 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 
 | **Metric** | **Value** |
 |:-----------|:----------|
-| 📄 Publications | 57 |
-| 📚 Citations | 725 |
-| 📊 h-index | 16 |
-| 👨‍⚖️ Journal Peer Reviews | 100+ |
-| 🌍 Research Signature | Digital Sustainability Assessment for Analytical Chemistry |
+| Publications | 57+ |
+| Citations | 725+ |
+| h-index | 16 |
+| Journal Peer Reviews | 100+ |
+| Research Signature | Digital Sustainability Assessment in Analytical Chemistry |
 
-My research aims to advance sustainable analytical chemistry through the development of innovative extraction materials, analytical methodologies, and scientific software. By integrating experimental research with digital decision-support tools, I seek to promote more transparent, reproducible, and sustainability-oriented analytical practices.
+My research integrates green analytical chemistry, sustainable sample preparation, and scientific software development to create practical solutions for modern analytical science. Through the combination of experimental methodologies and digital decision-support tools, I aim to improve the sustainability, transparency, reproducibility, and real-world impact of analytical workflows.
