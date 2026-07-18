@@ -32,4 +32,4 @@ GreenExPhase is a scientific software platform developed to support sustainabili
 | **Core Functions** | Assessment, comparison, visualization, and reporting |
 | **Target Users** | Researchers, graduate students, and analytical scientists |
 | **Development Status** | Fully developed |
-| **Availability** | Public demonstration will be released following publication of the associated research article |
+| **Availability** | Repository currently private. Public demonstration will be released following peer-reviewed publication |
