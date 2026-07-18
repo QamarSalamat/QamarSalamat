@@ -54,7 +54,7 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 ---
 ---
 
-## 📈 Research Impact
+## Research Impact
 
 | **Metric** | **Value** |
 |:-----------|:----------|
