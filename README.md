@@ -46,8 +46,8 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 ---
 ### 📸 Platform Preview
 <p align="center">
-  <img src="assets/screenshots/report.png"
-       alt="GreenExPhase Report"
+  <img src="assets/screenshots/dashboard.png"
+       alt="GreenExPhase Dashboard"
        width="900">
 </p>
-*Figure 1. GreenExPhase Results Report showing the integrated sustainability assessment and decision-support interface.*
+*Figure 1. GreenExPhase Results Dashboard showing the integrated sustainability assessment and decision-support interface.*
