@@ -24,21 +24,22 @@ My recent work has expanded toward research software development through the cre
 ## 🌱 Featured Scientific Software
 ### GreenExPhase
 *A digital scientific platform for holistic sustainability assessment, comparison, and decision support in extraction phase development.*
-GreenExPhase is a scientific software platform developed to support sustainability-oriented research in analytical chemistry. It provides a structured framework for the holistic assessment, comparison, and optimization of extraction phases by integrating sustainability metrics, evidence-based evaluation, and structured decision-support methodologies within a unified digital platform.
+GreenExPhase was developed to address the growing need for standardized, transparent, and reproducible sustainability assessment in extraction science. The platform enables researchers to evaluate extraction phases using structured sustainability criteria and evidence-based decision-support methodologies, facilitating more informed method development and comparison while promoting sustainable analytical chemistry.
 | **Attribute** | **Description** |
 |---------------|-----------------|
 | **Purpose** | Holistic sustainability assessment of extraction phases |
 | **Research Domain** | Green Analytical Chemistry & Sustainable Sample Preparation |
 | **Core Functions** | Assessment, comparison, visualization, and reporting |
 | **Target Users** | Researchers, graduate students, and analytical scientists |
-| **Development Status** | Fully developed |
+| **Development Status** | Version 1.0 completed |
 | **Availability** | Repository currently private. Public demonstration will be released following peer-reviewed publication |
 ---
 ### Key Capabilities
-- ✅ Holistic sustainability assessment of extraction phases
-- ✅ Quantitative sustainability scoring framework
-- ✅ Evidence-based decision support
-- ✅ Comparative evaluation of extraction systems
-- ✅ Interactive visualization and reporting
-- ✅ Research-oriented digital workflow
+
+- ✅ Guided project-based sustainability assessment
+- ✅ Multi-criteria sustainability scoring
+- ✅ Comparative evaluation of extraction phases
+- ✅ Interactive visualization and analytical dashboards
+- ✅ Automated report generation
+- ✅ Transparent documentation of sustainability assessments
 
