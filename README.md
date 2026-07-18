@@ -4,7 +4,7 @@
 
 I am an analytical chemist specializing in green analytical chemistry, sustainable sample preparation, and the design of innovative extraction materials and methodologies. My research explores how analytical science can be combined with computational approaches to develop practical tools that improve the sustainability, reliability, and transparency of analytical workflows.
 
-My recent work has expanded toward research software development through the creation of **GreenExPhase**, a scientific platform for the holistic sustainability assessment of extraction phases. By integrating analytical chemistry with digital technologies, I aim to develop reproducible methodologies and intelligent decision-support tools that help researchers design greener analytical systems and accelerate sustainable innovation.
+My recent work has expanded toward research software development through the creation of `GreenExPhase`, a scientific platform for the holistic sustainability assessment of extraction phases. By integrating analytical chemistry with digital technologies, I aim to develop reproducible methodologies and intelligent decision-support tools that help researchers design greener analytical systems and accelerate sustainable innovation.
 
 **57+** peer-reviewed publications • **725+** citations • **h-index 16** • **100+** journal peer reviews
 
@@ -27,9 +27,11 @@ My recent work has expanded toward research software development through the cre
 ---
 
 ## 💻 Featured Scientific Software
-### GreenExPhase
+### `GreenExPhase`
+
 *A digital scientific platform for holistic sustainability assessment, comparison, and decision support in extraction phase development.*
 GreenExPhase was developed to address the growing need for standardized, transparent, and reproducible sustainability assessment in extraction science. The platform enables researchers to evaluate extraction phases using structured sustainability criteria and evidence-based decision-support methodologies, facilitating more informed method development and comparison while promoting sustainable analytical chemistry.
+
 | **Attribute** | **Description** |
 |---------------|-----------------|
 | **Purpose** | Holistic sustainability assessment of extraction phases |
@@ -53,29 +55,28 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 ---
 
 ### 🖼️ Platform Preview
+
 <p align="center">
   <img src="assets/screenshots/dashboard.png"
        alt="GreenExPhase Dashboard"
        width="100%">
 </p>
+
 *Figure 1. GreenExPhase Results Dashboard illustrating the integrated sustainability assessment, visualization, and decision-support workflow.*
 
 ---
 
 ## 🧪 Current Research
+
 My current research focuses on advancing sustainable analytical chemistry through the integration of innovative extraction materials, green sample preparation strategies, and digital scientific technologies. I am particularly interested in developing computational frameworks that support evidence-based sustainability assessment and improve decision-making in analytical science.
-Current research directions include:
 
 Current research directions include:
 
 • Computational sustainability assessment for analytical chemistry
-
 • Green extraction materials and sustainable sample preparation
-
 • Scientific software for transparent and reproducible analytical workflows
 
 ---
-
 
 ## 🎓 Academic Profiles
 
