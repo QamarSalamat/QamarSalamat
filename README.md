@@ -92,4 +92,7 @@ My publications, citation metrics, research activities, and professional affilia
 
 - **Google Scholar** → [View Profile](https://scholar.google.com/citations?user=cVM-IC8AAAAJ&hl=en&oi=ao/Qamar_Salamat)
 - **ORCID** → [0009-0008-9455-7200](https://orcid.org/0009-0008-9455-7200)
+
+---
+
 Thank you for visiting my GitHub profile. I welcome opportunities for scientific collaboration, interdisciplinary research, and the development of sustainable analytical technologies.
