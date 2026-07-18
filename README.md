@@ -1,7 +1,7 @@
 ![](banner.png)
 
-## Bridging Analytical Chemistry and Digital Sustainability
+## Advancing Sustainable Analytical Chemistry Through Digital Innovation
 
-I am an analytical chemist whose research focuses on advancing sustainable analytical chemistry through innovative extraction materials, green sample preparation strategies, and digital scientific tools. My work combines analytical science with computational approaches to develop practical solutions that support evidence-based sustainability assessment and informed decision-making in analytical research.
+I am an analytical chemist specializing in green analytical chemistry, sustainable sample preparation, and the design of innovative extraction materials and methodologies. My research explores how analytical science can be combined with computational approaches to develop practical tools that improve the sustainability, reliability, and transparency of analytical workflows.
 
-As the developer of **GreenExPhase**, I am particularly interested in the digital transformation of analytical chemistry by creating scientific software that enables the holistic assessment, comparison, and optimization of extraction phases. My long-term goal is to contribute to more sustainable laboratory practices by integrating rigorous scientific methodologies with intelligent digital technologies.
+My recent work has expanded toward research software development through the creation of **GreenExPhase**, a scientific platform for the holistic sustainability assessment of extraction phases. By integrating analytical chemistry with digital technologies, I aim to develop reproducible methodologies and intelligent decision-support tools that help researchers design greener analytical systems and accelerate sustainable innovation.
