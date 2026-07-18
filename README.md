@@ -20,3 +20,16 @@ My recent work has expanded toward research software development through the cre
 
 - 📊 **Analytical Method Development**
   - Electrochemical sensing, spectroscopy, chromatography, and quantitative analytical methodologies
+---
+## 🌱 Featured Scientific Software
+### GreenExPhase
+*A digital scientific platform for holistic sustainability assessment, comparison, and decision support in extraction phase development.*
+GreenExPhase is a scientific software platform developed to support sustainability-oriented research in analytical chemistry. It provides a structured framework for the holistic assessment, comparison, and optimization of extraction phases by integrating sustainability metrics, evidence-based evaluation, and decision-support methodologies into a unified digital environment.
+| **Attribute** | **Description** |
+|---------------|-----------------|
+| **Purpose** | Holistic sustainability assessment of extraction phases |
+| **Research Domain** | Green Analytical Chemistry & Sustainable Sample Preparation |
+| **Core Functions** | Assessment, comparison, visualization, and reporting |
+| **Target Users** | Researchers, graduate students, and analytical scientists |
+| **Development Status** | Fully developed |
+| **Availability** | Public demonstration will be released following publication of the associated research article |
