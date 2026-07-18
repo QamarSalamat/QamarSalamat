@@ -90,9 +90,13 @@ Current research directions include:
 
 My publications, citation metrics, research activities, and professional affiliations can be explored through the following academic platforms:
 
-- **Google Scholar** → [View Profile](https://scholar.google.com/citations?user=cVM-IC8AAAAJ&hl=en&oi=ao/Qamar_Salamat)
-- **ORCID** → [0009-0008-9455-7200](https://orcid.org/0009-0008-9455-7200)
+- **📚 Google Scholar** → [View Profile](https://scholar.google.com/citations?user=cVM-IC8AAAAJ&hl=en&oi=ao/Qamar_Salamat)
+- **🆔 ORCID** → [0009-0008-9455-7200](https://orcid.org/0009-0008-9455-7200)
 
 ---
 
 Thank you for visiting my GitHub profile. I welcome opportunities for scientific collaboration, interdisciplinary research, and the development of sustainable analytical technologies.
+
+## 🤝 Collaboration
+
+I welcome opportunities for interdisciplinary research, international collaborations, scientific software development, and sustainability-oriented analytical chemistry projects. If our research interests align, I would be pleased to discuss potential collaborations.
