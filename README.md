@@ -1,6 +1,6 @@
 ![](banner.png)
 
-## Advancing Sustainable Analytical Chemistry Through Digital Innovation 
+## Advancing Sustainable Analytical Chemistry through Research, Innovation, and Scientific Software
 
 I am an analytical chemist specializing in green analytical chemistry, sustainable sample preparation, and the design of innovative extraction materials and methodologies. My research explores how analytical science can be combined with computational approaches to develop practical tools that improve the sustainability, reliability, and transparency of analytical workflows.
 
