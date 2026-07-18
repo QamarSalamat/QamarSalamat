@@ -72,5 +72,5 @@ My research integrates green analytical chemistry, sustainable sample preparatio
 
 My publications, citation metrics, research activities, and professional affiliations can be explored through the following academic platforms:
 
-- **Google Scholar** → [View Profile](YOUR_GOOGLE_SCHOLAR_LINK)
+- **Google Scholar** → [View Profile](https://scholar.google.com/citations?user=cVM-IC8AAAAJ&hl=en&oi=ao/Qamar_Salamat)
 - **ORCID** → [0009-0008-9455-7200](https://orcid.org/0009-0008-9455-7200)
