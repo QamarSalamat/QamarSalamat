@@ -44,10 +44,10 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 - ✅ Transparent documentation of sustainability assessments
 
 ---
-### 📸 Platform Preview
+### Platform Preview
 <p align="center">
   <img src="assets/screenshots/dashboard.png"
        alt="GreenExPhase Dashboard"
-       width="900">
+       width="100%">
 </p>
-*Figure 1. GreenExPhase Results Dashboard showing the integrated sustainability assessment and decision-support interface.*
+*Figure 1. GreenExPhase Results Dashboard illustrating the integrated sustainability assessment, visualization, and decision-support workflow.*
