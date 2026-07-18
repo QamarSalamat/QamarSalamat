@@ -5,6 +5,7 @@
 I am an analytical chemist specializing in green analytical chemistry, sustainable sample preparation, and the design of innovative extraction materials and methodologies. My research explores how analytical science can be combined with computational approaches to develop practical tools that improve the sustainability, reliability, and transparency of analytical workflows.
 
 My recent work has expanded toward research software development through the creation of **GreenExPhase**, a scientific platform for the holistic sustainability assessment of extraction phases. By integrating analytical chemistry with digital technologies, I aim to develop reproducible methodologies and intelligent decision-support tools that help researchers design greener analytical systems and accelerate sustainable innovation.
+
 ---
 
 ## Research Interests
@@ -20,7 +21,9 @@ My recent work has expanded toward research software development through the cre
 
 - **Analytical Method Development**
   - Electrochemical sensing, spectroscopy, chromatography, and quantitative analytical methodologies
+  
 ---
+
 ## Featured Scientific Software
 ### GreenExPhase
 *A digital scientific platform for holistic sustainability assessment, comparison, and decision support in extraction phase development.*
@@ -33,7 +36,9 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 | **Target Users** | Researchers, graduate students, and analytical scientists |
 | **Development Status** | Version 1.0 completed |
 | **Availability** | Repository currently private. Public demonstration will be released following peer-reviewed publication |
+
 ---
+
 ### Key Capabilities
 
 - ✅ Guided project-based sustainability assessment
@@ -44,6 +49,7 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 - ✅ Transparent documentation of sustainability assessments
 
 ---
+
 ### Platform Preview
 <p align="center">
   <img src="assets/screenshots/dashboard.png"
@@ -51,7 +57,7 @@ GreenExPhase was developed to address the growing need for standardized, transpa
        width="100%">
 </p>
 *Figure 1. GreenExPhase Results Dashboard illustrating the integrated sustainability assessment, visualization, and decision-support workflow.*
----
+
 ---
 
 ## Research Impact
