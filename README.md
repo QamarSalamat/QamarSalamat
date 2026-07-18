@@ -10,13 +10,14 @@ My recent work has expanded toward research software development through the cre
 ## Research Interests
 
 - 🧪 **Green Analytical Chemistry**
-  - Sustainable analytical methodologies and environmentally benign analytical systems
+  - Environmentally responsible analytical methodologies and sustainability-oriented analytical systems
 
 - 🌿 **Sustainable Sample Preparation**
   - Design and development of sustainable extraction materials and sample preparation platforms, including liquid- and solid-phase systems for analytical applications
 
-- 💻 **Scientific Software & Digital Assessment**
-  - Digital sustainability assessment, decision-support systems, and scientific software for analytical chemistry
+- 💻 **Scientific Software & Digital Sustainability Assessment**
+  - Research software, sustainability assessment, digital decision-support systems, and computational tools for analytical chemistry
 
 - 📊 **Analytical Method Development**
+  - Electrochemical sensing, spectroscopy, chromatography, and quantitative analytical methodologies
   - Electrochemical sensors, spectroscopy, chromatography, and quantitative analytical methodologies
