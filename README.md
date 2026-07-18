@@ -74,9 +74,22 @@ My research integrates green analytical chemistry, sustainable sample preparatio
 
 ---
 
-## Academic Profiles
+## Current Research
+My current research focuses on advancing sustainable analytical chemistry through the integration of innovative extraction materials, green sample preparation strategies, and digital scientific technologies. I am particularly interested in developing computational frameworks that support evidence-based sustainability assessment and improve decision-making in analytical science.
+Current research directions include:
+
+- **GreenExPhase** – A digital platform for holistic sustainability assessment of extraction phases.
+- **Sustainable Extraction Materials** – Development and evaluation of innovative liquid-, solid-, and hybrid-phase extraction systems.
+- **Green Sample Preparation** – Sustainable analytical methodologies for environmental, pharmaceutical, and food analysis.
+- **Digital Decision-Support Tools** – Computational approaches that improve reproducibility, transparency, and sustainability in analytical chemistry.
+
+---
+
+
+## Professional Profiles
 
 My publications, citation metrics, research activities, and professional affiliations can be explored through the following academic platforms:
 
 - **Google Scholar** → [View Profile](https://scholar.google.com/citations?user=cVM-IC8AAAAJ&hl=en&oi=ao/Qamar_Salamat)
 - **ORCID** → [0009-0008-9455-7200](https://orcid.org/0009-0008-9455-7200)
+Thank you for visiting my GitHub profile. I welcome opportunities for scientific collaboration, interdisciplinary research, and the development of sustainable analytical technologies.
