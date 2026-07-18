@@ -20,4 +20,3 @@ My recent work has expanded toward research software development through the cre
 
 - 📊 **Analytical Method Development**
   - Electrochemical sensing, spectroscopy, chromatography, and quantitative analytical methodologies
-  - Electrochemical sensors, spectroscopy, chromatography, and quantitative analytical methodologies
