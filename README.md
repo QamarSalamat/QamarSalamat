@@ -51,3 +51,13 @@ GreenExPhase was developed to address the growing need for standardized, transpa
        width="100%">
 </p>
 *Figure 1. GreenExPhase Results Dashboard illustrating the integrated sustainability assessment, visualization, and decision-support workflow.*
+---
+## 📈 Research Impact
+| **Metric** | **Value** |
+|-------------|----------:|
+| 📄 Publications | 57 |
+| 📚 Citations | 725 |
+| 📊 h-index | 16 |
+| 👨‍⚖️ Journal Peer Reviews | 100+ |
+| 🌍 Research Focus | Digital Sustainability Assessment for Analytical Chemistry |
+My research aims to advance sustainable analytical chemistry through the development of innovative extraction materials, analytical methodologies, and scientific software. By integrating experimental research with digital decision-support tools, I seek to promote more transparent, reproducible, and sustainability-oriented analytical practices.
