@@ -24,7 +24,7 @@ My recent work has expanded toward research software development through the cre
 ## 🌱 Featured Scientific Software
 ### GreenExPhase
 *A digital scientific platform for holistic sustainability assessment, comparison, and decision support in extraction phase development.*
-GreenExPhase is a scientific software platform developed to support sustainability-oriented research in analytical chemistry. It provides a structured framework for the holistic assessment, comparison, and optimization of extraction phases by integrating sustainability metrics, evidence-based evaluation, and decision-support methodologies into a unified digital environment.
+GreenExPhase is a scientific software platform developed to support sustainability-oriented research in analytical chemistry. It provides a structured framework for the holistic assessment, comparison, and optimization of extraction phases by integrating sustainability metrics, evidence-based evaluation, and structured decision-support methodologies within a unified digital platform.
 | **Attribute** | **Description** |
 |---------------|-----------------|
 | **Purpose** | Holistic sustainability assessment of extraction phases |
@@ -33,3 +33,12 @@ GreenExPhase is a scientific software platform developed to support sustainabili
 | **Target Users** | Researchers, graduate students, and analytical scientists |
 | **Development Status** | Fully developed |
 | **Availability** | Repository currently private. Public demonstration will be released following peer-reviewed publication |
+---
+### Key Capabilities
+- ✅ Holistic sustainability assessment of extraction phases
+- ✅ Quantitative sustainability scoring framework
+- ✅ Evidence-based decision support
+- ✅ Comparative evaluation of extraction systems
+- ✅ Interactive visualization and reporting
+- ✅ Research-oriented digital workflow
+
