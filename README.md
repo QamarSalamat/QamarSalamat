@@ -65,3 +65,13 @@ GreenExPhase was developed to address the growing need for standardized, transpa
 | Research Signature | Digital Sustainability Assessment in Analytical Chemistry |
 
 My research integrates green analytical chemistry, sustainable sample preparation, and scientific software development to create practical solutions for modern analytical science. Through the combination of experimental methodologies and digital decision-support tools, I aim to improve the sustainability, transparency, reproducibility, and real-world impact of analytical workflows.
+
+---
+
+## Academic Profiles
+
+| Platform | Link |
+|----------|------|
+| Google Scholar | [View Profile] (https://scholar.google.com/citations?user=cVM-IC8AAAAJ&hl=en&oi=ao) |
+| ORCID | [View Profile] (0009-0008-9455-7200) |
+My complete publication record, citation metrics, ongoing research activities, and professional affiliations are available through the academic profiles listed above.
