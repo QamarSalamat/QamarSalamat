@@ -86,23 +86,24 @@ Current research directions include:
 ---
 
 
-## Professional Profiles
+## 🎓 Academic Profiles
 
 My publications, citation metrics, research activities, and professional affiliations can be explored through the following academic platforms:
 
 - **📚 Google Scholar** → [View Profile](https://scholar.google.com/citations?user=cVM-IC8AAAAJ&hl=en&oi=ao/Qamar_Salamat)
+
 - **🆔 ORCID** → [0009-0008-9455-7200](https://orcid.org/0009-0008-9455-7200)
 
 ---
 
 ## 🤝 Collaboration
 
-I am always interested in collaborating on research related to:
+I welcome academic collaborations in the following research areas:
 
-- Green Analytical Chemistry
-- Sustainable Sample Preparation
-- Extraction Materials and Technologies
-- Scientific Software for Analytical Chemistry
-- Sustainability Assessment and Decision-Support Systems
+• Green Analytical Chemistry
+• Sustainable Sample Preparation
+• Sustainability Assessment & Decision-Support Systems
+• Scientific Software for Analytical Chemistry
+• Extraction Materials and Technologies
 
-If our research interests align, I would be pleased to discuss potential collaborations.
+If our research interests align, I would be delighted to discuss potential collaborations and future research opportunities.
