@@ -95,8 +95,14 @@ My publications, citation metrics, research activities, and professional affilia
 
 ---
 
-Thank you for visiting my GitHub profile. I welcome opportunities for scientific collaboration, interdisciplinary research, and the development of sustainable analytical technologies.
-
 ## 🤝 Collaboration
 
-I welcome opportunities for interdisciplinary research, international collaborations, scientific software development, and sustainability-oriented analytical chemistry projects. If our research interests align, I would be pleased to discuss potential collaborations.
+I am always interested in collaborating on research related to:
+
+- Green Analytical Chemistry
+- Sustainable Sample Preparation
+- Extraction Materials and Technologies
+- Scientific Software for Analytical Chemistry
+- Sustainability Assessment and Decision-Support Systems
+
+If our research interests align, I would be pleased to discuss potential collaborations.
